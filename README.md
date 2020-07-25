@@ -1,4 +1,4 @@
 # geodesics
 geodesiques (SGML)
 
-Pages : https://moueza.github.io/geodesics/.
+Pages : https://moueza.github.io/geodesics
