@@ -17,6 +17,16 @@ be found at http://www.fsf.org/copyleft/fdl.html.
 
       <para>
       Hello world!
+      
+      https://en.wikipedia.org/wiki/Geodesic
+      Metric geometry
+      d(\gamma (t_{1}),\gamma (t_{2}))=v\left|t_{1}-t_{2}\right|.
+      
+      Riemannian geometry
+In a Riemannian manifold M with metric tensor g, the length L of a continuously differentiable curve γ : [a,b] → M is defined by
+
+{\displaystyle L(\gamma )=\int _{a}^{b}{\sqrt {g_{\gamma (t)}({\dot {\gamma }}(t),{\dot {\gamma }}(t))}}\,dt.}L(\gamma )=\int _{a}^{b}{\sqrt {g_{\gamma (t)}({\dot {\gamma }}(t),{\dot {\gamma }}(t))}}\,dt.
+
       </para>
 
    </sect1>
