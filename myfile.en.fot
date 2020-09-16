@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<fot>
+<a name="HELLO-WORLD"/>
+<a name="INTRODUCTION"/>
+<a name="2"/>
+<text>Hello world introduction</text>
+<a name="3"/>
+<text>      Hello world!
+</text>
+<text>      </text>
+</fot>
