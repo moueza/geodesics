@@ -1,0 +1,9 @@
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook V4.1//EN">
+ <article>
+  <sect1>
+   <title> Hello world message </title>
+   <para>
+    Hello world!
+  </para>
+ </sect1>
+</article>
