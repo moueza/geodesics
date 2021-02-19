@@ -1,19 +1,19 @@
 <article xmlns='http://docbook.org/ns/docbook'>
   <info>
-    <title>Geodesics v16</title>
+    <title>Geodesics v17</title>
     <author>
       <personname>
 	<firstname>Peter</firstname>
 	<surname>MOUEZA</surname>
       </personname>
     </author>
-    <publisher><publishername>opensource.com</publishername></publisher>
+    <publisher><publishername>Github</publishername></publisher>
     <pubdate>2021-02-19</pubdate>
   </info>
 
   <section id="intro">
     <title>Introduction</title>
-    <para>Introductory text goes here.</para>
+    <para>We commonly see and understand the definition like : shortest path between 2 points. But here we want to see really by 3D view the concrete path from A(-1,-1) to B(1,1) of z(x,y)=e-(x^2+y^2) for instance</para>
   </section>
 
   <section id="body">
