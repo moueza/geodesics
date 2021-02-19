@@ -1,6 +1,9 @@
+<!DOCTYPE equation PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+"http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+
 <article xmlns='http://docbook.org/ns/docbook'>
   <info>
-    <title>Geodesics v17</title>
+    <title>Geodesics v18</title>
     <author>
       <personname>
 	<firstname>Peter</firstname>
@@ -14,12 +17,42 @@
   <section id="intro">
     <title>Introduction</title>
     <para>We commonly see and understand the definition like : shortest path between 2 points. But here we want to see really by 3D view the concrete path from A(-1,-1) to B(1,1) of z(x,y)=e-(x^2+y^2) for instance</para>
+
+      <para>https://tdg.docbook.org/tdg/4.5/equation.html
+    <equation><title>Fermat's Last Theorem</title>
+  <alt>x^n + y^n &ne; z^n &forall; n &gt; 2</alt>
+  
+    </equation>
+      </para>
   </section>
 
+
+  
+ <equation><title>Fermat's Last Theorem</title>
+  <alt>x^n + y^n &ne; z^n &forall; n &gt; 2</alt>
+  <graphic fileref="figures/fermat.png"/>
+ </equation>
+
+
+
+ 
   <section id="body">
     <title>Section with a title</title>
     <para>Main body text goes here.</para>
   </section>
+
+
+  
+<equation><title>Fermat's Last Theorem</title>
+  <alt>x^n + y^n &ne; z^n &forall; n &gt; 2</alt>
+  <mathphrase>x<superscript>n</superscript>
++ y<superscript>n</superscript>
+!= z<superscript>n</superscript>
+prtt n != 2</mathphrase>
+</equation>
+
+
+
 
   <section id="conclusion">
     <title>Conclusion</title>
