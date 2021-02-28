@@ -1,0 +1,18 @@
+<!DOCTYPE equation PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+"http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+
+
+
+<article xmlns='http://docbook.org/ns/docbook'>
+  2 <title>Example equation</title>
+    
+  4 <equation xml:id="eq.fermatphrase">
+      <title>Fermat's Last Theorem</title>
+  6   <mathphrase>x<superscript>n</superscript>
+    + y<superscript>n</superscript>
+  8 ≠ z<superscript>n</superscript>
+    ∀ n ≠ 2</mathphrase>
+ 10 </equation>
+    
+12 </article>
+
