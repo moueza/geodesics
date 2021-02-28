@@ -12,4 +12,4 @@ This version purports to document OASIS Standard DocBook V4.5 with the additiona
 DocBook Slides 0.9.1
 
 
-- Documentation https://tdg.docbook.org/tdg/5.2/
+- Documentation https://tdg.docbook.org/tdg/5.2/ (RDF)
